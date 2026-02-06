@@ -21,7 +21,6 @@
 /Users/michaelpeterson/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /Users/michaelpeterson/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/scopedcss/bundle/Mission5Assignment.styles.css
 /Users/michaelpeterson/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/scopedcss/projectbundle/Mission5Assignment.bundle.scp.css
-/Users/michaelpeterson/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/y5q2nl4mgf-{0}-lugek5hnai-lugek5hnai.gz
 /Users/michaelpeterson/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/u90ifnxaz9-{0}-bqjiyaj88i-bqjiyaj88i.gz
 /Users/michaelpeterson/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/y3umc8ozcy-{0}-c2jlpeoesf-c2jlpeoesf.gz
 /Users/michaelpeterson/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/imv7l4w751-{0}-erw9l3u2r3-erw9l3u2r3.gz
@@ -95,3 +94,5 @@
 /Users/michaelpeterson/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/ref/Mission5Assignment.dll
 /Users/michaelpeterson/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/h89j9qbk9t-{0}-61n19gt1b8-61n19gt1b8.gz
 /Users/michaelpeterson/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/v7wikwuc27-{0}-88oz635al4-88oz635al4.gz
+/Users/michaelpeterson/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/Mission5Assignment.sourcelink.json
+/Users/michaelpeterson/RiderProjects/Mission5Assignment/Mission5Assignment/obj/Debug/net10.0/compressed/y5q2nl4mgf-{0}-y0eur3vz30-y0eur3vz30.gz
