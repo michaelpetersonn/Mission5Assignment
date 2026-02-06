@@ -1,0 +1,88 @@
+html {
+  font-size: 14px;
+}
+
+@media (min-width: 768px) {
+  html {
+    font-size: 16px;
+  }
+}
+
+.btn:focus, .btn:active:focus, .btn-link.nav-link:focus, .form-control:focus, .form-check-input:focus {
+  box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb;
+}
+
+/* Container for hobby images */
+.hobby-images {
+  display: flex;              /* Place images side by side */
+  justify-content: center;    /* Center them horizontally */
+  flex-wrap: wrap;            /* Wrap to next line if screen is too small */
+  gap: 20px;                  /* Space between images */
+  margin-bottom: 20px;        /* Space below the image row */
+}
+
+/* Individual image styling */
+.hobby-image {
+  width: 250px;          /* fixed width */
+  max-width: 100%;       /* don’t exceed container width */
+  height: auto;          /* maintain aspect ratio */
+  object-fit: cover;     /* ensures image fills box without stretching */
+  border-radius: 5px;
+  box-shadow: 0 2px 6px rgba(0,0,0,0.2);
+  transition: transform 0.3s;
+}
+
+.form-row {
+  margin-bottom: 15px;
+  display: flex;
+  align-items: center;
+}
+
+.form-row label {
+  width: 250px;
+  margin-right: 10px;
+  text-align: right;
+}
+
+.form-row input {
+  flex: 1;
+  padding: 5px;
+}
+
+.btn-spacing {
+  margin-top: 15px;
+  margin-bottom: 15px;
+  padding: 8px 16px;
+  cursor: pointer;
+}
+
+.output-spacing {
+  margin-top: 10px;
+  padding: 5px;
+  width: 100%;
+  max-width: 300px;
+}
+
+
+/* Hover effect for images */
+.hobby-image:hover {
+  transform: scale(1.05);     /* Slightly enlarge on hover */
+}
+
+html {
+  position: relative;
+  min-height: 100%;
+}
+
+body {
+  margin-bottom: 60px;
+}
+
+.form-floating > .form-control-plaintext::placeholder, .form-floating > .form-control::placeholder {
+  color: var(--bs-secondary-color);
+  text-align: end;
+}
+
+.form-floating > .form-control-plaintext:focus::placeholder, .form-floating > .form-control:focus::placeholder {
+  text-align: start;
+}
